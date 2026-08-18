@@ -441,11 +441,4 @@ Improve Policy
 Repeat Training
           ↓
 Extract Final Policy
-
-
-
-
-
-
----
-
+```
